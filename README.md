@@ -1,8 +1,11 @@
 # 💫 About Me:
-I am a Student
+I am a Student Computer Science and Engineering graduate with hands-on experience in Python, SQL, and software development fundamentals.
+Currently undergoing professional training in Python Full Stack Development, with a focus on web application development.
+Familiar with database management, object-oriented programming, and problem-solving. Seeking an entry-level Software
+Engineer role to apply and further develop technical and programming skills
 
 
-## 🌐 Socials:
+## 🌐 Socials:  www.linkedin.com/in/vinay-v-6874ba379
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-v-628601381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayv0602@gmail.com) 
 
 # 💻 Tech Stack:
